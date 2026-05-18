@@ -1,0 +1,16 @@
+SUPPLIER SUMMARY REPORT
+========================
+Engineer        : Your Name
+Date            : 2026-05-18
+Total Suppliers : 6
+Completed       : 2
+Pending         : 2 → ['Valeo', 'Continental']
+High-Risk       : 1 → ['Aptiv']
+------------------------
+FULL SUPPLIER LIST:
+  Bosch | Completed | RLVV
+  Valeo | Pending | ADAS
+  Denso | In Progress | exPHAB
+  Continental | Pending | RLVV
+  Magna | Completed | exPHAB
+  Aptiv | High-Risk | ADAS
